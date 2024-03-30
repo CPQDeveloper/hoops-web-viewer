@@ -1,5 +1,7 @@
 {
     "name": "hoops-web-viewer-ts",
     "version": "1.0.0",
-    "author": "techsoft3d"
+    "author": "techsoft3d",
+    "main": "./hoops_web_viewer.js",
+    "typings": "./typescript/hoops_web_viewer.d.ts"
 }
